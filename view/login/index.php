@@ -61,7 +61,7 @@
             ?>
 
             <div class="card card-primary">
-              <div class="card-header"><h4>Login</h4></div>
+              <div class="card-header"><h4>Login Pegawai</h4></div>
 
               <div class="card-body">
                 <form method="POST" action="../../controller/admin/login.php" class="needs-validation" novalidate="">
@@ -83,8 +83,11 @@
                     </div>
                   </div>
 
-                  <div class="form-group">
-                    <button type="submit" name="loginData" class="btn btn-primary btn-lg btn-block" tabindex="4">
+                  <div class="form-group text-right">
+                    <a href="../halaman" class="float-left mt-3">
+                      <i class="fa fa-arrow-left"></i> Kembali
+                    </a>
+                    <button type="submit" name="loginData" class="btn btn-primary btn-lg btn-icon icon-right" tabindex="4">
                       Login
                     </button>
                   </div>
@@ -94,7 +97,7 @@
               </div>
             </div>
             <div class="mt-5 text-muted text-center">
-              Developer <a href="auth-register.html">Raharja.Corp</a>
+              Developer : <a href="//linkedin.com/in/bejosuseno" target="blank">Code Peka</a> 
             </div>
             <div class="simple-footer">
               Copyright &copy; Stisla 2018

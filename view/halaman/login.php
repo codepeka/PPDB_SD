@@ -83,7 +83,7 @@
             </form>
 
             <div class="text-center mt-5 text-small">
-              Made with 💙 by Tiara Ekylia Eriza Putri
+              Developer : <a href="//linkedin.com/in/bejosuseno" target="blank">Code Peka</a> 
             </div>
           </div>
         </div>

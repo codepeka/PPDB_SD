@@ -161,7 +161,7 @@
 
     <footer class="site-footer" style="padding: 20px 0 5px 0">
       <div class="container">
-        <p class="text-center"> Create By <a href="#">Tiara Ekylia Eriza Putri</a> </p>
+        <p class="text-center"> Developer : <a href="//linkedin.com/in/bejosuseno" target="blank">Code Peka</a> </p>
       </div>
     </footer>
 

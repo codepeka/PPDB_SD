@@ -1,6 +1,6 @@
 <!-- Header -->
 <?php
-	$title = "Home Dashboard"; // Judulnya
+	$title = "Data Siswa"; // Judulnya
 	require("../template/header.php"); // include headernya
 
 	if (!isset($_GET['id'])) {
@@ -277,7 +277,7 @@
 		        </div>
 		        <br>
 		        <div class="modal-footer bg-whitesmoke br">
-		          <a href="tampilData.php" type="button" class="btn btn-secondary" data-dismiss="modal">Batal</a>
+		          <a href="tampilData.php" type="button" class="btn btn-secondary">Batal</a>
 		          <button class="btn btn-primary" name="ubahData">Simpan</button>
 		        </div>
 		      </div>
