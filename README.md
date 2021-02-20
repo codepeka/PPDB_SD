@@ -3,7 +3,7 @@
 <p align="center">
 	Ini adalah aplikasi PPDB ONLINE SD menggunakan PHP NATIVE
 	<br>
-  <a href="https://github.com"><strong> Demo »</strong></a>
+  <a href="https://github.com/codepeka/PPDB_SD"><strong> Demo » (Coming Soon)</strong></a>
 </p>
 
 ### Features
@@ -19,9 +19,9 @@
 
 ### LINK 
 
-`<Demo>` : <https://github.com> 
+`<Demo>` : <https://github.com/codepeka/PPDB_SD> 
 
-`<Donasi>` : <https://github.com> 
+`<Donasi>` : <https://saweria.co/codepeka> 
 
 
 
