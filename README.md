@@ -21,8 +21,8 @@
 
 `<Demo>` : <https://github.com/codepeka/PPDB_SD> 
 
-`<Donasi>` : <https://saweria.co/codepeka> 
-<img src="images/saweria.PNG" alt="Barcode Saweria">
+`<Donasi>` : <https://saweria.co/codepeka> <br>
+![](images/saweria.PNG) <br>
 Barcode Saweria 
 
 
